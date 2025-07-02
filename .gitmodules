@@ -1,0 +1,4 @@
+[submodule "submodules/SubmoduleRepository"]
+	path = submodules/SubmoduleRepository
+	url = https://github.com/voki-stengach-v-o/SubmoduleRepository.git
+	branch = main
